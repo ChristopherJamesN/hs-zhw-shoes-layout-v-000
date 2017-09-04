@@ -35,5 +35,9 @@
 }
 
 .col-3 {
-  
+
+}
+
+[classes*="col-"] {
+  margin-left: 2%;
 }
